@@ -1,0 +1,5 @@
+{
+  "intrinsics": {"fx": 1000, "fy": 1000, "cx": 960, "cy": 540, "width": 1920, "height": 1080},
+  "pose": {"latitude_deg": 59.9386, "longitude_deg": 30.3141, "camera_height_m": 170, "ground_height_m": 50, "yaw_deg": 0, "pitch_deg": -90, "roll_deg": 0},
+  "pixels": [[960, 540], [1060, 540], [960, 440]]
+}
